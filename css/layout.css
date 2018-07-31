@@ -25,3 +25,6 @@
 div {
     column-count: 3;
 }
+.clearfix {
+    overflow: auto;
+}
