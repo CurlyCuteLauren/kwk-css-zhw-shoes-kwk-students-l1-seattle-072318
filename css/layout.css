@@ -22,5 +22,6 @@
   clear: both;
 }
 
-/* Posititoning Classes */
-
+div {
+    column-count: 3;
+}
